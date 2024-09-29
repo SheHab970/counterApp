@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 0 0;
     padding: 0;
     box-sizing: border-box;
     font-family: system-ui;
@@ -37,6 +37,8 @@ button{
     transition: 0.5s all;
     cursor: pointer;
 }
+/* comment */
+/* shehab */
 #btn_one{
     background-color: rgb(255, 33, 33);
 }
